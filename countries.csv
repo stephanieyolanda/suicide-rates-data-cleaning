@@ -1,0 +1,184 @@
+country_id,country,who_region_id
+ATG,Antigua and Barbuda,AMR
+BRB,Barbados,AMR
+BRN,Brunei Darussalam,WPR
+CRI,Costa Rica,AMR
+GRD,Grenada,AMR
+GUY,Guyana,AMR
+ISL,Iceland,EUR
+MLT,Malta,EUR
+MUS,Mauritius,AFR
+VCT,Saint Vincent and the Grenadines,AMR
+PAN,Panama,AMR
+ARM,Armenia,EUR
+MDV,Maldives,SEAR
+STP,Sao Tome and Principe,AFR
+HND,Honduras,AMR
+MWI,Malawi,AFR
+VEN,Venezuela (Bolivarian Republic of),AMR
+KWT,Kuwait,EMR
+IRL,Ireland,EUR
+JOR,Jordan,EMR
+QAT,Qatar,EMR
+OMN,Oman,EMR
+GRC,Greece,EUR
+GHA,Ghana,AFR
+SYR,Syrian Arab Republic,EMR
+NGA,Nigeria,AFR
+CYP,Cyprus,EUR
+PHL,Philippines,WPR
+IDN,Indonesia,SEAR
+GAB,Gabon,AFR
+JAM,Jamaica,AMR
+NIC,Nicaragua,AMR
+ITA,Italy,EUR
+MRT,Mauritania,AFR
+SRB,Serbia,EUR
+TUR,Türkiye,EUR
+BHS,Bahamas,AMR
+SLV,El Salvador,AMR
+MMR,Myanmar,SEAR
+KEN,Kenya,AFR
+ALB,Albania,EUR
+BHR,Bahrain,EMR
+UGA,Uganda,AFR
+THA,Thailand,SEAR
+SSD,South Sudan,AFR
+COL,Colombia,AMR
+MYS,Malaysia,WPR
+PER,Peru,AMR
+AGO,Angola,AFR
+COD,Democratic Republic of the Congo,AFR
+LCA,Saint Lucia,AMR
+AZE,Azerbaijan,EUR
+DZA,Algeria,AFR
+BLZ,Belize,AMR
+GMB,Gambia,AFR
+TZA,United Republic of Tanzania,AFR
+MEX,Mexico,AMR
+COG,Congo,AFR
+SAU,Saudi Arabia,EMR
+SEN,Senegal,AFR
+ROU,Romania,EUR
+SYC,Seychelles,AFR
+ETH,Ethiopia,AFR
+LBN,Lebanon,EMR
+ISR,Israel,EUR
+BTN,Bhutan,SEAR
+GEO,Georgia,EUR
+PRT,Portugal,EUR
+BGD,Bangladesh,SEAR
+CHL,Chile,AMR
+ESP,Spain,EUR
+ARE,United Arab Emirates,EMR
+PNG,Papua New Guinea,WPR
+SVK,Slovakia,EUR
+ZMB,Zambia,AFR
+CPV,Cabo Verde,AFR
+TCD,Chad,AFR
+LVA,Latvia,EUR
+ERI,Eritrea,AFR
+TUN,Tunisia,EMR
+LBR,Liberia,AFR
+CIV,Côte d’Ivoire,AFR
+DJI,Djibouti,EMR
+DOM,Dominican Republic,AMR
+CUB,Cuba,AMR
+MDG,Madagascar,AFR
+FRA,France,EUR
+NER,Niger,AFR
+YEM,Yemen,EMR
+SVN,Slovenia,EUR
+TKM,Turkmenistan,EUR
+BLR,Belarus,EUR
+CHE,Switzerland,EUR
+PRY,Paraguay,AMR
+DEU,Germany,EUR
+BOL,Bolivia (Plurinational State of),AMR
+LAO,Lao People's Democratic Republic,WPR
+HRV,Croatia,EUR
+NPL,Nepal,SEAR
+DNK,Denmark,EUR
+UZB,Uzbekistan,EUR
+AUS,Australia,WPR
+MAR,Morocco,EMR
+BEL,Belgium,EUR
+BGR,Bulgaria,EUR
+TTO,Trinidad and Tobago,AMR
+TON,Tonga,WPR
+IRN,Iran (Islamic Republic of),EMR
+LBY,Libya,EMR
+GNQ,Equatorial Guinea,AFR
+NOR,Norway,EUR
+GBR,United Kingdom of Great Britain and Northern Ireland,EUR
+KIR,Kiribati,WPR
+SGP,Singapore,WPR
+IRQ,Iraq,EMR
+URY,Uruguay,AMR
+VUT,Vanuatu,WPR
+SLE,Sierra Leone,AFR
+BRA,Brazil,AMR
+WSM,Samoa,WPR
+CMR,Cameroon,AFR
+FJI,Fiji,WPR
+KAZ,Kazakhstan,EUR
+MKD,The former Yugoslav Republic of Macedonia,EUR
+AFG,Afghanistan,EMR
+ARG,Argentina,AMR
+CAN,Canada,AMR
+NLD,Netherlands,EUR
+ECU,Ecuador,AMR
+MNE,Montenegro,EUR
+JPN,Japan,WPR
+SDN,Sudan,EMR
+SWZ,Eswatini,AFR
+BIH,Bosnia and Herzegovina,EUR
+TLS,Timor-Leste,SEAR
+EGY,Egypt,EMR
+FSM,Micronesia (Federated States of),WPR
+HTI,Haiti,AMR
+KHM,Cambodia,WPR
+SWE,Sweden,EUR
+KGZ,Kyrgyzstan,EUR
+NZL,New Zealand,WPR
+BWA,Botswana,AFR
+SUR,Suriname,AMR
+RUS,Russian Federation,EUR
+COM,Comoros,AFR
+PAK,Pakistan,EMR
+ZWE,Zimbabwe,AFR
+ZAF,South Africa,AFR
+GIN,Guinea,AFR
+LSO,Lesotho,AFR
+TGO,Togo,AFR
+FIN,Finland,EUR
+VNM,Viet Nam,WPR
+IND,India,SEAR
+USA,United States of America,AMR
+RWA,Rwanda,AFR
+PRK,Democratic People's Republic of Korea,SEAR
+TJK,Tajikistan,EUR
+CZE,Czechia,EUR
+BEN,Benin,AFR
+GTM,Guatemala,AMR
+LTU,Lithuania,EUR
+CHN,China,WPR
+GNB,Guinea-Bissau,AFR
+AUT,Austria,EUR
+BFA,Burkina Faso,AFR
+CAF,Central African Republic,AFR
+SOM,Somalia,EMR
+MOZ,Mozambique,AFR
+MLI,Mali,AFR
+POL,Poland,EUR
+HUN,Hungary,EUR
+NAM,Namibia,AFR
+LUX,Luxembourg,EUR
+MDA,Republic of Moldova,EUR
+KOR,Republic of Korea,WPR
+LKA,Sri Lanka,SEAR
+EST,Estonia,EUR
+UKR,Ukraine,EUR
+MNG,Mongolia,WPR
+BDI,Burundi,AFR
+SLB,Solomon Islands,WPR
